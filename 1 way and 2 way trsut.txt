@@ -1,0 +1,7 @@
+1 way trust 
+apps handles by -kerberos KDC
+human user - AD
+
+2 way trust 
+KDC - user and app
+AD -user and app
